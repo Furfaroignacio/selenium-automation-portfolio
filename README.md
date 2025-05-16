@@ -10,7 +10,7 @@ Hola 👋 Soy Ignacio Furfaro, y este es mi portfolio de proyectos de automatiza
 
 | Proyecto | Descripción | Lenguaje |
 |----------|-------------|----------|
-| [Scraping MercadoLibre](./WebScrap) | Automatiza una búsqueda y guarda los resultados en CSV | Python |
+| [Scraping MercadoLibre](./scraping-mercadolibre) | Automatiza una búsqueda y guarda los resultados en CSV | Python |
 
 ---
 
