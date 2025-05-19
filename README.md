@@ -16,7 +16,7 @@ Hola 👋 Soy Ignacio Furfaro, y este es mi portfolio de proyectos de automatiza
 
 ---
 
-## 📋 Testing Manual
+## 📋 Testing Manual + Postman
 
 ### 🧪 Casos de Prueba
 - Flujo de login con múltiples validaciones
