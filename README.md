@@ -12,6 +12,7 @@ Hola 👋 Soy Ignacio Furfaro, y este es mi portfolio de proyectos de automatiza
 |----------|-------------|----------|
 | [Scraping MercadoLibre](./scraping-mercadolibre) | Automatiza una búsqueda y guarda los resultados en CSV | Python |
 | [Bot Login](./login-bot-prueba) | Este proyecto automatiza el proceso de login. Se prueba el acceso con credenciales válidas e inválidas, y se capturan pantallas del resultado para validación.| Python |
+| [Api Testing](./api-testing) | Este proyecto automatiza el testing de una Api publica (JSONPlaceholder). Utilizando el framework pytest y request| Python |
 
 
 ---
