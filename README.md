@@ -30,3 +30,5 @@ Hola 👋 Soy Ignacio Furfaro, y este es mi portfolio de proyectos de automatiza
 
 📁 **Ver carpeta completa con casos y bugs**:  
 👉 [Carpeta QA Manual – Google Drive]((https://drive.google.com/drive/folders/1TnAhX5TlNxVQ5aeK2usAPkksCwGEBNZy?usp=drive_link))
+🔗 [Testing Manual - API JSONPlaceholder](https://drive.google.com/drive/folders/https://drive.google.com/drive/folders/1TnAhX5TlNxVQ5aeK2usAPkksCwGEBNZy?hl=es)
+
