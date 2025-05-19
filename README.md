@@ -1,4 +1,4 @@
-# 🧪 Selenium Automation Portfolio
+# 🧪 Selenium Automation Portfolio y Testing Manual
 
 Hola 👋 Soy Ignacio Furfaro, y este es mi portfolio de proyectos de automatización con **Selenium**. Estos proyectos muestran mis habilidades como:
 
@@ -16,3 +16,17 @@ Hola 👋 Soy Ignacio Furfaro, y este es mi portfolio de proyectos de automatiza
 
 ---
 
+## 📋 Testing Manual
+
+### 🧪 Casos de Prueba
+- Flujo de login con múltiples validaciones
+- Casos válidos, inválidos, y de borde
+- ✔️ Documentado en Google Sheets
+
+### 🐞 Reportes de Bugs
+- Redactados con pasos claros, resultado esperado/obtenido, severidad
+- Capturas de pantalla como evidencia
+- ✔️ Documentado en Google Docs
+
+📁 **Ver carpeta completa con casos y bugs**:  
+👉 [Carpeta QA Manual – Google Drive]((https://drive.google.com/drive/folders/1TnAhX5TlNxVQ5aeK2usAPkksCwGEBNZy?usp=drive_link))
