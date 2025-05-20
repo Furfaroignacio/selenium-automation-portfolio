@@ -9,6 +9,11 @@ Este proyecto contiene pruebas automatizadas de la API pública JSONPlaceholder 
 - POST /posts
 - DELETE /posts/1
 
+### Capturas
+
+![Resultados de pytest](./api-testing/evidencia/pytest_resultado.png)
+
+
 ## Cómo ejecutar
 
 ```bash
