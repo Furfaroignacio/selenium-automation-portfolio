@@ -11,7 +11,7 @@ Este proyecto contiene pruebas automatizadas de la API pública JSONPlaceholder 
 
 ### Capturas
 
-![Resultados de pytest](./api-testing/evidencia/pytest_resultado.png)
+![Resultados de pytest](/api-testing/evidencia/pytest_resultado.png)
 
 
 ## Cómo ejecutar
