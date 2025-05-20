@@ -1,34 +1,35 @@
-# 🧪 Selenium Automation Portfolio y Testing Manual
+# 🧪 QA Portfolio – Ignacio María Furfaro
 
-Hola 👋 Soy Ignacio Furfaro, y este es mi portfolio de proyectos de automatización con **Selenium**. Estos proyectos muestran mis habilidades como:
+Este repositorio contiene mi portfolio como QA Manual y QA Automation. Incluye:
 
-- QA Automation Engineer
-- Web Scraping Developer
-- Automatizador de flujos web
+- ✅ Casos de prueba manuales documentados en Google Drive
+- ✅ Reportes de bugs reales con capturas
+- ✅ Automatización de pruebas de API con `pytest` y `requests`
+- ✅ Automatización de UI con Selenium (en desarrollo)
 
-## 🚀 Proyectos incluidos
+## 📂 Proyectos incluidos
 
-| Proyecto | Descripción | Lenguaje |
-|----------|-------------|----------|
-| [Scraping MercadoLibre](./scraping-mercadolibre) | Automatiza una búsqueda y guarda los resultados en CSV | Python |
-| [Bot Login](./login-bot-prueba) | Este proyecto automatiza el proceso de login. Se prueba el acceso con credenciales válidas e inválidas, y se capturan pantallas del resultado para validación.| Python |
+| Proyecto          | Descripción                                         |
+|-------------------|-----------------------------------------------------|
+| `qa-manual`       | Casos de prueba, evidencia, reporte de errores      |
+| `api-testing`     | Automatización de pruebas API REST                  |
+| `login-bot-prueba`| Script básico de Selenium para automatizar login    |
+| `scraping-mercadolibre`| Automatiza una búsqueda y guarda los resultados en CSV  |
 
+
+📎 Ver [documentación y casos de prueba](https://drive.google.com/drive/folders/1TnAhX5TlNxVQ5aeK2usAPkksCwGEBNZy?hl=es)  
 
 ---
 
-## 📋 Testing Manual
+## ⚙️ Tecnologías usadas
 
-### 🧪 Casos de Prueba
-- Flujo de login con múltiples validaciones
-- Casos válidos, inválidos, y de borde
-- ✔️ Documentado en Google Sheets
+- Python 
+- pytest
+- requests
+- Selenium
+- Google Sheets / Docs
 
-### 🐞 Reportes de Bugs
-- Redactados con pasos claros, resultado esperado/obtenido, severidad
-- Capturas de pantalla como evidencia
-- ✔️ Documentado en Google Docs
+## 🧑‍💻 Contacto
 
-📁 **Ver carpeta completa con casos y bugs**:  
-👉 [Carpeta QA Manual – Google Drive]((https://drive.google.com/drive/folders/1TnAhX5TlNxVQ5aeK2usAPkksCwGEBNZy?usp=drive_link))
-🔗 [Testing Manual - API JSONPlaceholder](https://drive.google.com/drive/folders/https://drive.google.com/drive/folders/1TnAhX5TlNxVQ5aeK2usAPkksCwGEBNZy?hl=es)
-
+- [LinkedIn](https://www.linkedin.com/in/ignaciomariafurfaro/)
+- Email: [furfaroignacio@gmail.com]
