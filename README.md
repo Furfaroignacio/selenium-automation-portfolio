@@ -14,6 +14,8 @@ Este repositorio contiene mi portfolio como QA Manual y QA Automation. Incluye:
 | `qa-manual`       | Casos de prueba, evidencia, reporte de errores      |
 | `api-testing`     | Automatización de pruebas API REST                  |
 | `login-bot-prueba`| Script básico de Selenium para automatizar login    |
+| `scraping-mercadolibre`| Automatiza una búsqueda y guarda los resultados en CSV  |
+
 
 📎 Ver [documentación y casos de prueba](https://drive.google.com/drive/folders/1TnAhX5TlNxVQ5aeK2usAPkksCwGEBNZy?hl=es)  
 
